@@ -1,7 +1,7 @@
 # Mingalarpar, I'm Khant Sint Heinn 🐈
 ### *also known as Kalix Louis*
 
-**Building data. Learning NLP & Machine learning. Staying curious.**
+**Building data. Learning NLP & Machine Learning. Staying curious.**
 
 > *Learning to build AI that understands languages people often overlook.*
 
@@ -33,7 +33,7 @@ I am deeply fascinated by **Natural Language Processing (NLP)** and **Data-centr
 
 My focus is deeply practical: **building robust data foundations for low-resource languages.** I believe in the power of open-source. By spending my time curating datasets and experimenting with specialized linguistic tools, I hope to play a small part in democratizing AI innovation step by step. 
 
-Currently, I am channeling this curiosity as the Founder & Lead AI Scientist at **DatarrX Foundation**, where every day is a new opportunity to learn, build, and grow.
+Currently, I am channeling this curiosity as the **Founder & Researcher** at **DatarrX Foundation**, an open initiative dedicated to building data foundations for **low-resource languages**.
 
 ### 📍 Current Coordinates
 
@@ -43,11 +43,13 @@ Currently, I am channeling this curiosity as the Founder & Lead AI Scientist at 
 
 ### 🛠️ The Toolkit
 
-Here are the tools I use to bring ideas to life and continue my learning journey:
+- **Languages & Core:** `Python`, `SQL`
+- **Deep Learning & NLP:** `PyTorch`, `Hugging Face (Transformers, Datasets, PEFT)`, `Scikit-Learn`
+- **Data Engineering & Analysis:** `Pandas`, `NumPy`, `Polars`
+- **Tools & Workflow:** `Git`, `GitHub`, `Linux/Bash`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,docker,sklearn" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,pandas,numpy" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,huggingface,sklearn,pandas,numpy,postgres,git,github,linux" />
 </p>
 
 ---
